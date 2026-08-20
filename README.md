@@ -30,14 +30,6 @@ Modern AI/ML portfolio website showcasing machine learning projects, research, s
 - CSS3
 - JavaScript
 
-## Recommended Next Improvements
-
-1. Add a separate GitHub repository for each project.
-2. Add project screenshots or demo GIFs.
-3. Add results for each ML project, such as accuracy, recall, F1-score, ROC-AUC, or confusion matrix.
-4. Add README files for each project with setup instructions and dataset source.
-5. Add a live demo link for apps that can be deployed.
-
 ## Suggested Project Repository Structure
 
 ```text
