@@ -30,18 +30,6 @@ Modern AI/ML portfolio website showcasing machine learning projects, research, s
 - CSS3
 - JavaScript
 
-## Suggested Project Repository Structure
-
-```text
-project-name/
-├── README.md
-├── notebook.ipynb
-├── src/
-├── data/README.md
-├── requirements.txt
-└── screenshots/
-```
-
 ## Contact
 
 - Portfolio: https://abdelra7manzayed.github.io/Abdelrahman-portfolio/
