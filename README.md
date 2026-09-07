@@ -1,38 +1,19 @@
-# Abdelrahman Gamal Zayed - AI/ML Portfolio
+# Abdelrahman Gamal Zayed — AI/ML Portfolio
 
-Modern responsive portfolio website for **Abdelrahman Gamal Zayed**, an Artificial Intelligence Engineering student and AI/ML Intern candidate.
+Updated portfolio package with expanded animations, capability visualizations, USP section, 2026 experience, project filters, local project demos, certification gallery, research metrics, and the latest supplied resume.
 
-## Live Portfolio
+## Structure
+- `index.html` — portfolio page
+- `style.css` — visual system, animations, responsive layout
+- `script.js` — interactions, filters, demo modal, theme, cursor and scroll effects
+- `assets/Abdelrahman_Gamal_Zayed_Resume.pdf` — supplied resume
+- `assets/certificates/` — supplied certificates
+- `assets/cert_thumbs/` — certificate preview images
+- `assets/videos/` — supplied project demos
+- `assets/thumbs/` — demo thumbnails/screenshots
 
-https://abdelra7manzayed.github.io/Abdelrahman-portfolio/
+## Run locally
+Open `index.html` directly, or use a local static server for the smoothest browser behavior.
 
-## Repository Description
-
-Modern AI/ML portfolio website showcasing machine learning projects, research, skills, experience, resume, and contact links.
-
-## What This Portfolio Includes
-
-- Professional profile photo
-- AI/ML-focused hero section
-- About and education sections
-- Technical skills grouped by category
-- Experience and leadership timeline
-- Research paper under review
-- Selected AI/ML projects
-- Resume download link
-- LinkedIn, GitHub, and email contact links
-- Responsive layout for mobile and desktop
-- Dark/light mode toggle
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Contact
-
-- Portfolio: https://abdelra7manzayed.github.io/Abdelrahman-portfolio/
-- LinkedIn: https://linkedin.com/in/abdelrahman-gamal-zayed
-- GitHub: https://github.com/Abdelra7manZayed
-- Email: abdelrahman.gamal.zayed@gmail.com
+## GitHub
+Project links point to the repositories visible on `github.com/Abdelra7manZayed`.
