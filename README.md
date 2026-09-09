@@ -63,3 +63,10 @@ project-name/
 - Updated the resume file inside `assets/`.
 - Updated project focus to include Multilingual Fake News Classification and NLP learning tasks.
 - Kept the profile picture embedded in the website so it appears reliably on GitHub Pages.
+
+
+## Final GitHub Pages Update
+- Replaced the resume with the latest uploaded CV.
+- Removed the GitHub Improvement / recommendation placeholder section.
+- Added more professional animations: loader, animated gradient background, reveal motion, hover shine, card tilt, floating resume button, and active navigation.
+- Kept the profile image embedded for reliable display on GitHub Pages.
