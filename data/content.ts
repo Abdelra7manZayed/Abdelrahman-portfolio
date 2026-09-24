@@ -7,6 +7,7 @@ export type Project = {
   highlights: string[];
   image?: string;
   demo?: string;
+  demoUrl?: string;
   github?: string;
   status?: string;
   featured?: boolean;
@@ -30,6 +31,7 @@ export const projects: Project[] = [
     stack: ['Python', 'NLP', 'TF-IDF', 'CountVectorizer', 'Scikit-learn'],
     highlights: ['Arabic + English text', 'Text preprocessing', 'Feature extraction', 'Classification pipeline'],
     image: '/assets/nlp-cover.jpg', status: 'NLP case study',
+    demoUrl: 'https://fake-news--veridica.streamlit.app/',
   },
   {
     name: 'Solar Power Forecasting', category: 'Research / ML', featured: true,
